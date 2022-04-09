@@ -1,5 +1,5 @@
 # Centralized DBMS
-The centralized DBMS contains following modules,
+The centralized DBMS contains the following modules,
 
 1) DB Design 
 2) Query Implementation
